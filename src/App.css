@@ -1,0 +1,28 @@
+.container {
+  width: 360px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-image: url('/public/images/catBg.jpg'); */
+  /* background-color: rgba(255, 255, 255, 0.7); Adjust the alpha value (0.7 in this example) for opacity */
+
+}
+
+.bdayText {
+  width: -webkit-fill-available;
+}
+
+.bdayPic {
+  width: -webkit-fill-available;
+  border-radius: 7vmin;
+  border: 9px dotted #6fbfd5;
+  padding: 5px;
+}
+
+.gift {
+  width: -webkit-fill-available;
+  height: 85px;
+}
+
