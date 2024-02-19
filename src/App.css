@@ -1,5 +1,5 @@
 .container {
-  width: 360px;
+  width: -webkit-fill-available;
   padding: 20px;
   display: flex;
   flex-direction: column;
